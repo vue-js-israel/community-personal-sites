@@ -5,6 +5,6 @@ Sorted alphabetically by first name. To add yours, please see [the contributing 
 
 If you'd like to see GitHub profiles, [click here](github.md).
 
-##Organizers##
-- Dima Vishnevetsky http://www.dimshik.com/
-- Maya Shavin http://mayashavin.com/
+**Organizers**
+1. [Maya Shavin](http://mayashavin.com/)
+2. [Dima Vishnevetsky](http://www.dimshik.com/)
